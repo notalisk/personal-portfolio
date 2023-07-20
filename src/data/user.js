@@ -3,7 +3,7 @@ const INFO = {
 		title: "Ellen K - Portfolio",
 		name: "Ellen K",
 		email: "ellen@rscheme.org",
-		logo: "logo.png",
+		logo: "https://notalisk.github.io/personal-portfolio/",
 	},
 
 	socials: {

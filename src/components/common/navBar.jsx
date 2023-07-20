@@ -19,7 +19,9 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/personal-portfolio/">Home</Link>
+								<Link to="https://notalisk.github.io/personal-portfolio/">
+									Home
+								</Link>
 							</li>
 							<li
 								className={
@@ -28,7 +30,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/personal-portfolio/about">
+								<Link to="https://notalisk.github.io/personal-portfolio/about">
 									About
 								</Link>
 							</li>
@@ -39,7 +41,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/personal-portfolio/projects">
+								<Link to="https://notalisk.github.io/personal-portfolio/projects">
 									Projects
 								</Link>
 							</li>
@@ -50,7 +52,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/personal-portfolio/contact">
+								<Link to="https://notalisk.github.io/personal-portfolio/contact">
 									Contact
 								</Link>
 							</li>

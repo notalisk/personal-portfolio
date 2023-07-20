@@ -23,22 +23,28 @@ function App() {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="/personal-portfolio/" element={<Homepage />} />
-				<Route path="/personal-portfolio/about" element={<About />} />
 				<Route
-					path="/personal-portfolio/projects"
+					path="https://notalisk.github.io/personal-portfolio/"
+					element={<Homepage />}
+				/>
+				<Route
+					path="https://notalisk.github.io/personal-portfolio/about"
+					element={<About />}
+				/>
+				<Route
+					path="https://notalisk.github.io/personal-portfolio/projects"
 					element={<Projects />}
 				/>
 				<Route
-					path="/personal-portfolio/articles"
+					path="https://notalisk.github.io/personal-portfolio/articles"
 					element={<Articles />}
 				/>
 				<Route
-					path="/personal-portfolio/article/:slug"
+					path="https://notalisk.github.io/personal-portfolio/article/:slug"
 					element={<ReadArticle />}
 				/>
 				<Route
-					path="/personal-portfolio/contact"
+					path="https://notalisk.github.io/personal-portfolio/contact"
 					element={<Contact />}
 				/>
 				<Route path="*" element={<Notfound />} />
