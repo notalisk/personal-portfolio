@@ -57,7 +57,7 @@ const INFO = {
 				"Simple app for tracking the weather, using an API, built fully by me.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://notalisk.github.io/notalisk-weather-app/",
+			link: "https://bit.ly/4jpjb2s",
 		},
 
 		// {
