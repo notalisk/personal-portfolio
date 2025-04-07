@@ -39,7 +39,7 @@ const INFO = {
 				"A mental health app that centers around finding a community of similar individuals. I created the MongoDB database that was used in this project, and much of the backend.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://quell-mental-health-9f784a2642a5.herokuapp.com/",
+			link: "https://github.com/roshniipatel/quell",
 		},
 
 		{
@@ -48,7 +48,7 @@ const INFO = {
 				"An app for gamify-ing your goals! Earn coins and experience for completing custom goals.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://goalsy.herokuapp.com/",
+			link: "https://github.com/notalisk/goalsy",
 		},
 
 		{
